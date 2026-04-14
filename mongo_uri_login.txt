@@ -1,0 +1,1 @@
+mongodb://root:./secrets/mongo_root_password.txt@mongodb:27017/appdb?authSource=admin
